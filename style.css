@@ -61,3 +61,9 @@ h1{
     text-align: center;
     padding: 20px 20px;
 }
+@media only screen and (max-width: 600px) {
+.section0, .section1, .section2, .section3 {
+    padding-top: none;  
+    padding-bottom: 46px;
+    }
+  }
